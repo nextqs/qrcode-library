@@ -1,9 +1,10 @@
 {
-    "name": "2amigos/qrcode-library",
+    "name": "nextqs/qrcode-library",
     "description": "QrCode Generator",
     "type": "library",
     "keywords": [
         "2amigos",
+        "nextqs",
         "extension",
         "component",
         "qrcode",
@@ -13,15 +14,15 @@
     "license": "BSD-3-Clause",
     "authors": [
         {
-            "name": "2amigOS! Consulting Group",
-            "email": "hola@2amigos.us",
-            "homepage": "https://2amigos.us",
+            "name": "nextqs",
+            "email": "nextqs@nextqs.com",
+            "homepage": "https://nextqs.com",
             "role": "Developer"
         }
     ],
     "support": {
-        "issues": "https://github.com/2amigos/qrcode-library/issues",
-        "source": "https://github.com/2amigos/qrcode-library"
+        "issues": "https://github.com/nextqs/qrcode-library/issues",
+        "source": "https://github.com/nextqs/qrcode-library"
     },
     "repositories": [
         {
